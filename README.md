@@ -2,8 +2,10 @@
 
 Using machine learning to detect Phishing url
 
-Random Forest Classifier accuracy of 96.8%
+Random Forest Classifier accuracy of 95%
 
-Kernel SVM accuracy of 96.2%
+Kernel SVM accuracy of 93.6%
 
-K nearest neighbour accuracy of 94%
+K nearest neighbour accuracy of 93%
+
+Naive Bayse Accuracy of 76.7%
